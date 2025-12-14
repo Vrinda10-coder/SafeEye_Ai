@@ -1,0 +1,17 @@
+
+# Runtime data
+logs/
+flask_outputs/
+flask_uploads/
+*.sqlite
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
